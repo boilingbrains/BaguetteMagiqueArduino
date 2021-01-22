@@ -2,9 +2,10 @@
 # __La baguette magique d'Harry Potter avec Arduino__
 
 ## Introduction: 
-Ce projet conciste à réaliser une baguette magique qui peut reconnaître les sorts dans Harry Potter grâce aux mouvements et le machine learning sur Arduino. J'ai utilisé les composants suivant:
+Ce projet consiste à réaliser une baguette magique qui peut reconnaître les sorts Harry Potter grâce aux mouvements et le machine learning sur Arduino. 
+J'ai utilisé les composants suivants:
 
-* Baguette magique
+* Baguette de fan Harry Potter
 * Arduino Nano 33 BLE Sense
 ## Structure du projet
 ```
