@@ -1,0 +1,10 @@
+C:\Users\adria\Documents\VS Projects\BaguetteMagique\BaguetteMagique\bin\Debug\BaguetteMagique.exe.config
+C:\Users\adria\Documents\VS Projects\BaguetteMagique\BaguetteMagique\bin\Debug\BaguetteMagique.exe
+C:\Users\adria\Documents\VS Projects\BaguetteMagique\BaguetteMagique\bin\Debug\BaguetteMagique.pdb
+C:\Users\adria\Documents\VS Projects\BaguetteMagique\BaguetteMagique\obj\Debug\BaguetteMagique.csprojAssemblyReference.cache
+C:\Users\adria\Documents\VS Projects\BaguetteMagique\BaguetteMagique\obj\Debug\BaguetteMagique.Form1.resources
+C:\Users\adria\Documents\VS Projects\BaguetteMagique\BaguetteMagique\obj\Debug\BaguetteMagique.Properties.Resources.resources
+C:\Users\adria\Documents\VS Projects\BaguetteMagique\BaguetteMagique\obj\Debug\BaguetteMagique.csproj.GenerateResource.cache
+C:\Users\adria\Documents\VS Projects\BaguetteMagique\BaguetteMagique\obj\Debug\BaguetteMagique.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\VS Projects\BaguetteMagique\BaguetteMagique\obj\Debug\BaguetteMagique.exe
+C:\Users\adria\Documents\VS Projects\BaguetteMagique\BaguetteMagique\obj\Debug\BaguetteMagique.pdb
