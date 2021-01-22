@@ -16,9 +16,9 @@ Ce projet conciste à réaliser une baguette magique qui peut reconnaître les s
 │   │
 │   └───📜IMU_Capture.ino
 │   │
-│   └───📜IMU_Classifier_Baguette_v2.ino
-│   │
 │   └───📜IMU_Classifier_Baguette.ino
+│   │
+│   └───📜IMU_Classifier_Baguette_v2.ino
 │  
 └───📂BaguetteMagiqueApp
     │
