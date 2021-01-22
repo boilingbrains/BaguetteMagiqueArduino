@@ -36,7 +36,7 @@ J'ai utilisé les composants suivants:
 
    * La collecte des données se fait avec le fichier IMU_Capture.ino
   
-   * Le notebook google collab [ici](https://colab.research.google.com/github/arduino/ArduinoTensorFlowLiteTutorials/blob/master/GestureToEmoji/arduino_tinyml_workshop.ipynb)
+   * Le notebook Google Collab [ici](https://colab.research.google.com/github/arduino/ArduinoTensorFlowLiteTutorials/blob/master/GestureToEmoji/arduino_tinyml_workshop.ipynb)
 
 
 2. Classification des données (nécessite model.h)
